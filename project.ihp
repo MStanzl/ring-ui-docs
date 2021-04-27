@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ihp
+        SYSTEM "https://resources.jetbrains.com/stardust/ihp.dtd">
+<ihp version="2.0">
+    <settings/>
+
+    <module name="ring-ui"/>
+
+    <vars src="v.list"/>
+    <topics dir="topics"/>
+    <images dir="images" web-path="images/"/>
+
+    <categories src="c.list"/>
+
+    <product src="rgu.tree"
+             web-path="/ring-ui/"
+             version="1.0"
+             keymaps-mode="none"/>
+
+</ihp>
