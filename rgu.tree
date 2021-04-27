@@ -7,7 +7,7 @@
                  start-page="Welcome.md">
 
     <toc-element id="Welcome.md">
-        <toc-element id="Other Page.md"/>
+        <toc-element id="Other-Page.md"/>
     </toc-element>
 
 </product-profile>
