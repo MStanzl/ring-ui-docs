@@ -1,6 +1,6 @@
 [//]: # (title: Checkbox)
 
-Surprise! This is an image! BLABLABLABLA test t
+Surprise! This is an image! BLABLABLABLA test
 
-![Sample Image](Intro.png)
+![Sample Image](intro.svg)
 
