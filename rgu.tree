@@ -6,10 +6,10 @@
                  status="eap"
                  start-page="Welcome.md">
 
-    <toc-element id="Welcome.md"/>
+    <toc-element id="Welcome.md" draft="true"/>
     <toc-element id="Gallery.xml"/>
-    <toc-element id="Components.md">
-        <toc-element id="Checkbox.md"/>
+    <toc-element id="Components.md" draft="true">
+        <toc-element id="Checkbox.md" draft="true"/>
     </toc-element>
 
 </product-profile>
