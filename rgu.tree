@@ -4,12 +4,12 @@
 <product-profile id="rgu"
                  name="RingUI"
                  status="eap"
-                 start-page="Gallery.xml">
+                 start-page="Welcome.xml">
 
-    <toc-element id="Welcome.md" draft="true" hidden="true"/>
-    <toc-element id="Gallery.xml"/>
-    <toc-element id="Components.md" draft="true" hidden="true">
-        <toc-element id="Checkbox.md" draft="true" hidden="true"/>
-    </toc-element>
+    <!--toc-element id="Welcome.md" draft="true" hidden="true"/-->
+    <toc-element id="Welcome.xml"/>
+    <!--toc-element id="Components.md" draft="true" hidden="true"-->
+        <!--toc-element id="Checkbox.md" draft="true" hidden="true"/-->
+    <!--/toc-element-->
 
 </product-profile>
