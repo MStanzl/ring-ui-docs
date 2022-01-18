@@ -1,7 +1,11 @@
+
 [//]: # (title: Components)
 
 Components are the smallest Elements of the UI.
 
-[Checkbox](Checkbox.md)
+
+<Button>Button</Button>
+
+
 
 test
