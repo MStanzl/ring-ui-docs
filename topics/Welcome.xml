@@ -10,6 +10,8 @@
     <p>If the contextual help is not triggered by the user, e.g. in the onboarding of your application, use messages instead.</p>
 
 
+
+
     <media-gallery>
         <media>
             <img src="Tooltip_Do.png" alt="browse"/>
