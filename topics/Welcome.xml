@@ -10,30 +10,14 @@
     <p>If the contextual help is not triggered by the user, e.g. in the onboarding of your application, use messages instead.</p>
 
 
-
-
     <media-gallery>
-        <media>
+        <media title="Picture">
+            <media-description>Here goes <b>description</b></media-description>
             <img src="Tooltip_Do.png" alt="browse"/>
-            <media-description>Here goes description</media-description>
         </media>
-        <media>
-            <img src="Tooltip_Dont.png" alt="browse"/>
-            <media-description>Here goes another description</media-description>
-        </media>
-    </media-gallery>
-
-    <p>If the contextual help is not triggered by the user, e.g. in the onboarding of your application, use messages instead.</p>
-
-
-    <media-gallery>
-        <media>
+        <media title="Video">
+            <media-description>Here goes <b>description</b></media-description>
             <img src="Tooltip_Do.png" alt="browse"/>
-            <media-description>Here goes description</media-description>
-        </media>
-        <media>
-            <img src="Tooltip_Dont.png" alt="browse"/>
-            <media-description>Here goes another description</media-description>
         </media>
     </media-gallery>
 
