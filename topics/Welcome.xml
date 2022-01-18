@@ -6,16 +6,18 @@
        title="Gallery"
        id="Welcome" auxiliary-id="Gallery">
 
-    <p>Start writing here.</p>
+
+    <p>If the contextual help is not triggered by the user, e.g. in the onboarding of your application, use messages instead.</p>
+
 
     <media-gallery>
-        <media title="Picture">
+        <media>
+            <img src="Tooltip_Do.png" alt="browse"/>
             <media-description>Here goes description</media-description>
-            <img src="tooltips_do_text.svg" alt="browse"/>
         </media>
-        <media title="Video">
+        <media>
+            <img src="Tooltip_Dont.png" alt="browse"/>
             <media-description>Here goes <b>description</b></media-description>
-            <img src="tooltips_do_text.svg" alt="browse"/>
         </media>
     </media-gallery>
 
