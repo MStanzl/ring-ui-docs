@@ -6,12 +6,12 @@ As you can see, it has a [a link to other page](Components.md), and then just so
 test
 
 <media-gallery>
-    <media>
+    <media title="Picture">
+        <media-description>Here goes <b>description</b></media-description>
         <img src="Tooltip_Do.png" alt="browse"/>
-        <media-description>Here goes </media-description>
     </media>
-    <media>
+    <media title="Video">
+        <media-description>Here goes <b>description</b></media-description>
         <img src="Tooltip_Dont.png" alt="browse"/>
-        <media-description>Here goes </media-description>
     </media>
 </media-gallery>
