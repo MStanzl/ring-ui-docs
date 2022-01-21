@@ -7,9 +7,7 @@
                  start-page="Welcome.md">
 
     <toc-element id="Welcome.md"/>
+    <toc-element id="Components.md"/>
 
-    <toc-element id="Components.md">
-        <!--        <toc-element id="Checkbox.md" draft="true" hidden="true"/>-->
-    </toc-element>
 
 </product-profile>
