@@ -7,11 +7,11 @@ test
 
 <media-gallery>
     <media title="Picture">
-        <media-description>Here goes <b>description</b></media-description>
         <img src="Tooltip_Do.png" alt="browse"/>
+        <media-description>Here goes <b>description</b></media-description>
     </media>
     <media title="Video">
-        <media-description>Here goes <b>description</b></media-description>
         <img src="Tooltip_Dont.png" alt="browse"/>
+        <media-description>Here goes <b>description</b></media-description>
     </media>
 </media-gallery>
