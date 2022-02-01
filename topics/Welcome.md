@@ -8,10 +8,10 @@ As you can see, it has a [a link to other page](Components.md), and then just so
 <table>
     <tr>
         <td>
-            <img src="Tooltip_Do.png" alt="browse"/>
+            <img src="gaze-path.png" alt="browse"/>
         </td>
         <td>
-            <img src="Tooltip_Dont.png" alt="browse"/>
+            <img src="gaze-path.png" alt="browse"/>
         </td>
     </tr>
 </table>

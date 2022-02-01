@@ -2,17 +2,27 @@
 
 Components are the smallest Elements of the UI.
 
-```xml
-<Button>Button</Button>
-```
+<img src="gaze-path.png" alt="browse"/>
 
 <media-gallery>
-    <media title="Picture">
-        <img src="Tooltip_Do.png" alt="browse"/>
-        <media-description>Here goes <b>description</b></media-description>
-    </media>
-    <media title="Video">
-        <img src="Tooltip_Dont.png" alt="browse"/>
-        <media-description>Here goes <b>description</b></media-description>
-    </media>
+  <media title="Picture">
+    <media-description>Here goes <b>description</b></media-description>
+    <img src="gaze-path.png" alt="browse"/>
+  </media>
+  <media title="Video">
+    <img src="gaze-path.png" alt="browse"/>
+    <media-description>Here goes <b>description</b></media-description>
+  </media>
 </media-gallery>
+
+
+<table>
+  <tr>
+    <td>
+      <img src="gaze-path.png" alt="browse"/>
+    </td>
+    <td>
+      <img src="gaze-path.png" alt="browse"/>
+    </td>
+  </tr>
+</table>
