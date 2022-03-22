@@ -12,6 +12,6 @@ Components are the smallest Elements of the UI.
   <media title="Picture">
     <img src="gaze-path.png" alt="browse"/>
     <media-description>Here goes desc</media-description>
-  </media>
+  </media> 
 </media-gallery>
 
